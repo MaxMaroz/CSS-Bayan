@@ -1,3 +1,11 @@
-.head{
+*{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+body{
+    padding: 20px;
+    background-color: rgb(214, 210, 206);
+}
+
