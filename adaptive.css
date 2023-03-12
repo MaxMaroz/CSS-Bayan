@@ -1,0 +1,26 @@
+@media only screen and (max-width: 821px) {
+    .txt{
+        font-size: 20px;
+    }
+
+    .pic{
+        width: 60%;
+        height: 60%;
+    }
+    #row{
+        padding: -90px;
+    }
+    
+}
+
+@media only screen and (max-width: 321px){
+    .txt{
+        font-size: 15px;
+        
+    }
+
+    .pic{
+        width: 70%;
+        height: 70%;
+    }
+}
