@@ -2,10 +2,37 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 body{
     padding: 20px;
     background-color: rgb(214, 210, 206);
+    font-family: 'Great Vibes';
+    height: auto;
+    width: auto;
+   
+	color: rgba(48, 69, 92, 0.8);
+    font-style: normal; 
+    font-weight: normal;
 }
 
+.pic{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%);
+}
+
+.txt{
+    font-size: 30px;
+}
+
+header{
+    text-align: center;
+    color: rgb(99, 67, 189);
+    border-bottom: 2px solid rgb(47, 109, 131);
+	
+}
